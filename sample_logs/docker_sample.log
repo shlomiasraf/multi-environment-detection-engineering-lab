@@ -1,0 +1,2 @@
+Mar 24 12:01:01 docker daemon: docker exec -it suspicious_container /bin/sh
+Mar 24 12:02:00 docker daemon: docker run --privileged nginx

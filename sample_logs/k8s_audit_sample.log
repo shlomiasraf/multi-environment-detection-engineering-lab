@@ -1,0 +1,4 @@
+{"kind":"Event","verb":"create","objectRef":{"resource":"pods"},"user":{"username":"system:admin"},"userAgent":"kubectl/v1.34.5"}
+{"kind":"Event","verb":"create","objectRef":{"resource":"pods"},"user":{"username":"developer-user"},"userAgent":"kubectl/v1.34.5"}
+{"kind":"Event","verb":"connect","objectRef":{"resource":"pods","subresource":"exec"},"user":{"username":"system:admin"},"userAgent":"kubectl/v1.34.5"}
+{"kind":"Event","verb":"connect","objectRef":{"resource":"pods","subresource":"exec"},"user":{"username":"developer-user"},"userAgent":"kubectl/v1.34.5"}

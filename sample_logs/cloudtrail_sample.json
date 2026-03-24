@@ -1,0 +1,15 @@
+{
+  "Events": [
+    {
+      "EventName": "RunInstances"
+    },
+    {
+      "EventName": "ConsoleLogin",
+      "CloudTrailEvent": "{\"userIdentity\":{\"type\":\"Root\"},\"additionalEventData\":{\"MFAUsed\":\"No\"}}"
+    },
+    {
+      "EventName": "CreateAccessKey",
+      "CloudTrailEvent": "{\"userIdentity\":{\"type\":\"IAMUser\"}}"
+    }
+  ]
+}
