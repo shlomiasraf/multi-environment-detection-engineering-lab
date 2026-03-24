@@ -1,4 +1,3 @@
-cat attack_chain_time_detector.py 
 from datetime import datetime
 
 log_file = "/var/log/auth.log"
